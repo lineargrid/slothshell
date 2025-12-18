@@ -1,1 +1,2 @@
-# slothshellAn terminal based tool for automation
+# slothshell
+A terminal-based tool for automation in Linux Systems.
